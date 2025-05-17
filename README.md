@@ -1,2 +1,10 @@
-# Proyect-github
-Proyect using github example
+
+# Curso de Git
+
+A brief description of what this project does and who it's for
+
+
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
+
